@@ -1,3 +1,4 @@
+***WARNING!!! GRAPEJUICE IS REACHING EOL STATUS AND WILL BE ARCHIVED BY BRINKERVII SOON, REST IN PEACE ROBLOX ON LINUX***
 # Grapejuice Install Scripts
 Install scripts for the Grapejuice Linux Roblox runner, for different Linux distros, instead of pasting commands in, you just need to run the script for your distro!
 
